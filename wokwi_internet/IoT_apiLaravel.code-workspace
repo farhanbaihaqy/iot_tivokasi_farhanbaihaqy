@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../IoT_apiLaravel"
+		},
+		{
+			"name": "wokwi_internet",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
